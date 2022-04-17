@@ -1,0 +1,87 @@
+{
+  "configVersion": 1,
+  "timestamp": 1650220122457,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/279.bd3c6060ed585c92.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.a3b4cb7e370b029d.js",
+        "/manifest.webmanifest",
+        "/polyfills.1ce6aa25a3f42865.js",
+        "/runtime.bc4d29c7c48f0ae1.js",
+        "/styles.ba1a3497d1249c3f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/diploma.gif",
+        "/assets/images/documento.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/279.bd3c6060ed585c92.js": "7ea2f7f34f4a5703dd2f7a6072955997c7d73779",
+    "/assets/icons/icon-128x128.png": "a2e85cf1fa7d2d7814efd4cc630b4700828bba2c",
+    "/assets/icons/icon-144x144.png": "cc220d201405a2dd1902c88721fc6bff09543607",
+    "/assets/icons/icon-152x152.png": "f5d8b0ba961c18004e40048a5dc79362e4a7730a",
+    "/assets/icons/icon-192x192.png": "4ebfaa708cc500c6196eb85324450d8ef86c30ed",
+    "/assets/icons/icon-384x384.png": "898fea50c114b1627c18f5a570243167aacdef40",
+    "/assets/icons/icon-512x512.png": "3c9c90a1268627e1177472a68ed1dd24142ece56",
+    "/assets/icons/icon-72x72.png": "193146e9e1c51ba5f595e6d7406669aaacda04bb",
+    "/assets/icons/icon-96x96.png": "ab7d1e42f4fb73db47b5892a20129c2a5b58167b",
+    "/assets/images/diploma.gif": "13e1446d9f36b0b4d365cc355de7b0929c8e9647",
+    "/assets/images/documento.gif": "0317c8aa639ddeea55f3b574e802953943087ceb",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "239760a645a4d9598e6c468986e5d6d55a72f23e",
+    "/main.a3b4cb7e370b029d.js": "0a6bf8248163248e71050e98406f408d28e914df",
+    "/manifest.webmanifest": "0e865370f6bb77d19283361ef82bb8f0edf6f29b",
+    "/polyfills.1ce6aa25a3f42865.js": "9c87ae3edd92a98c2ea5e7a86594c8a7432dace8",
+    "/runtime.bc4d29c7c48f0ae1.js": "7ea46eb538d5013a859af43a6f10b650d06f2b93",
+    "/styles.ba1a3497d1249c3f.css": "17c9deda5c7893f3628edbded3c29cfda642c80f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

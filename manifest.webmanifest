@@ -1,6 +1,7 @@
 {
   "name": "german-challenge-angular",
   "short_name": "g-r-a",
+  "description" :  "Github Page como una aplicación web progresiva" , 
   "theme_color": "#6200ee",
   "background_color": "#03dac6",
   "display": "standalone",
